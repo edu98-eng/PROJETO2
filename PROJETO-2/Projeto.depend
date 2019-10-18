@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1571371139 source:c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\escultor3d.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Escultor3D.h"
+
+1571368991 c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\escultor3d.h
+	<iostream>
+
+1571375383 source:c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<cstdlib>
+	"figurageometrica.h"
+	"Escultor3D.h"
+	"putVoxel.h"
+	"cutVoxel.h"
+	"cutBox.h"
+	"putBox.h"
+	"putSphere.h"
+	"cutSphere.h"
+	"putEllipsoid.h"
+	"cutEllipsoid.h"
+
+1571368454 source:c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\figurageometrica.cpp
+	"figurageometrica.h"
+
+1571371779 c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\figurageometrica.h
+	"Escultor3D.h"
+
+1571373225 source:c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\putvoxel.cpp
+	"putVoxel.h"
+
+1571371779 c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\putvoxel.h
+	"figurageometrica.h"
+
+1571374990 source:c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\cutvoxel.cpp
+	"cutVoxel.h"
+
+1571373169 c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\cutvoxel.h
+	"figurageometrica.h"
+
+1571372276 source:c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\putbox.cpp
+	"putBox.h"
+
+1571372261 c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\putbox.h
+	"figurageometrica.h"
+
+1571372325 source:c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\cutbox.cpp
+	"cutBox.h"
+
+1571372298 c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\cutbox.h
+	"figurageometrica.h"
+
+1571373049 source:c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\putsphere.cpp
+	"putSphere.h"
+
+1571373093 c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\putsphere.h
+	"figurageometrica.h"
+
+1571372969 source:c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\cutsphere.cpp
+	"cutsphere.h"
+
+1571372968 c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\cutsphere.h
+	"figurageometrica.h"
+
+1571372781 source:c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\putellipsoid.cpp
+	"putEllipsoid.h"
+
+1571372706 c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\putellipsoid.h
+	"figurageometrica.h"
+
+1571372812 source:c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\cutellipsoid.cpp
+	"cutellipsoid.h"
+
+1571372811 c:\users\samara\documents\c&t - ufrn\6° semestre\pa\projeto\cutellipsoid.h
+	"figurageometrica.h"
+
